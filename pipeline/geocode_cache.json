@@ -1,0 +1,27 @@
+{
+ "goudavelle|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "ibrahimbagh|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.3767677,
+  "lng": 78.381442
+ },
+ "korremul|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "pudoor|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "shamirpet-orrgc|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.5942672,
+  "lng": 78.5743878
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "generated_at": "2026-07-19T20:20:04",
+ "refresh_cadence": "weekly",
+ "record_count": 11,
+ "mapped_count": 11,
+ "geo_coverage_pct": 100.0,
+ "by_stage": {
+  "likely_active": 8,
+  "completed": 1,
+  "approved": 1,
+  "stale_unknown": 1
+ },
+ "by_district": {
+  "Medchal-Malkajgiri": 11
+ },
+ "by_geo_confidence": {
+  "district": 9,
+  "village": 2
+ },
+ "sources": [
+  "hmda_autodcr"
+ ],
+ "disclaimer": "Stages are INFERRED from administrative records (permits/OCs), not confirmations of physical construction. Each carries a rule and confidence. Data reflects the last refresh; see generated_at."
+}

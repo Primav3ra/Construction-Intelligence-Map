@@ -1,0 +1,508 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.48,
+     17.63
+    ]
+   },
+   "properties": {
+    "project_id": "9525b8cf78f831e5",
+    "name": "YADAVALLI VIJAY KUMAR",
+    "promoter_org": "YADAVALLI VIJAY KUMAR",
+    "is_organization": false,
+    "district": "Medchal-Malkajgiri",
+    "village": "Korremul",
+    "category": "construction",
+    "permission_types": [
+     "building_permission"
+    ],
+    "permission_date": "2024-01-02",
+    "oc_date": null,
+    "stage": "likely_active",
+    "stage_confidence": "medium",
+    "stage_rule": "R3:in_build_window_no_oc",
+    "geo_confidence": "district",
+    "lead_score": 60.8,
+    "score_breakdown": {
+     "stage": 1.0,
+     "recency": 0.167,
+     "scale": 0.5,
+     "proximity": 1.0,
+     "promoter_rep": 0.0
+    },
+    "sources": [
+     {
+      "source": "hmda_autodcr",
+      "file_no": "062254/GHT/R1/U6/HMDA/02012024",
+      "permit_number": "",
+      "project_type": "Building Permission",
+      "fetched_at": "2026-07-19T09:00:00"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.48,
+     17.63
+    ]
+   },
+   "properties": {
+    "project_id": "1c28ab367749013f",
+    "name": "BANOTHU LAXMI",
+    "promoter_org": "BANOTHU LAXMI",
+    "is_organization": false,
+    "district": "Medchal-Malkajgiri",
+    "village": "Korremul",
+    "category": "construction",
+    "permission_types": [
+     "building_permission"
+    ],
+    "permission_date": "2024-01-05",
+    "oc_date": null,
+    "stage": "likely_active",
+    "stage_confidence": "medium",
+    "stage_rule": "R3:in_build_window_no_oc",
+    "geo_confidence": "district",
+    "lead_score": 60.8,
+    "score_breakdown": {
+     "stage": 1.0,
+     "recency": 0.167,
+     "scale": 0.5,
+     "proximity": 1.0,
+     "promoter_rep": 0.0
+    },
+    "sources": [
+     {
+      "source": "hmda_autodcr",
+      "file_no": "062266/GHT/R1/U6/HMDA/05012024",
+      "permit_number": "",
+      "project_type": "Building Permission",
+      "fetched_at": "2026-07-17T12:00:00"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.48,
+     17.63
+    ]
+   },
+   "properties": {
+    "project_id": "4aa7228c9463ef12",
+    "name": "GURRAM MADHU AND TWO OTHERS",
+    "promoter_org": "GURRAM MADHU AND TWO OTHERS",
+    "is_organization": false,
+    "district": "Medchal-Malkajgiri",
+    "village": "Korremul",
+    "category": "construction",
+    "permission_types": [
+     "building_permission"
+    ],
+    "permission_date": "2024-01-12",
+    "oc_date": null,
+    "stage": "likely_active",
+    "stage_confidence": "medium",
+    "stage_rule": "R3:in_build_window_no_oc",
+    "geo_confidence": "district",
+    "lead_score": 60.8,
+    "score_breakdown": {
+     "stage": 1.0,
+     "recency": 0.167,
+     "scale": 0.5,
+     "proximity": 1.0,
+     "promoter_rep": 0.0
+    },
+    "sources": [
+     {
+      "source": "hmda_autodcr",
+      "file_no": "062291/GHT/R1/U6/HMDA/12012024",
+      "permit_number": "",
+      "project_type": "Building Permission",
+      "fetched_at": "2026-07-17T12:00:00"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.48,
+     17.63
+    ]
+   },
+   "properties": {
+    "project_id": "ba831841914f09ed",
+    "name": "DAGPA SUBHAKRITI INFRACON (OPC) PRIVATE LIMITED",
+    "promoter_org": "DAGPA SUBHAKRITI INFRACON (OPC) PRIVATE LIMITED",
+    "is_organization": true,
+    "district": "Medchal-Malkajgiri",
+    "village": "Goudavelle",
+    "category": "construction",
+    "permission_types": [
+     "building_permission"
+    ],
+    "permission_date": "2024-02-06",
+    "oc_date": null,
+    "stage": "likely_active",
+    "stage_confidence": "medium",
+    "stage_rule": "R3:in_build_window_no_oc",
+    "geo_confidence": "district",
+    "lead_score": 61.4,
+    "score_breakdown": {
+     "stage": 1.0,
+     "recency": 0.194,
+     "scale": 0.5,
+     "proximity": 1.0,
+     "promoter_rep": 0.0
+    },
+    "sources": [
+     {
+      "source": "hmda_autodcr",
+      "file_no": "062367/MED/R1/U6/HMDA/06022024",
+      "permit_number": "",
+      "project_type": "Building Permission",
+      "fetched_at": "2026-07-17T12:00:00"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.5743878,
+     17.5942672
+    ]
+   },
+   "properties": {
+    "project_id": "29fa731e1d3bcd18",
+    "name": "Parvathala DhanrajKrishna and Parvathala Amrutha Dhanraj",
+    "promoter_org": "Parvathala DhanrajKrishna and Parvathala Amrutha Dhanraj",
+    "is_organization": false,
+    "district": "Medchal-Malkajgiri",
+    "village": "Shamirpet-ORRGC",
+    "category": "construction",
+    "permission_types": [
+     "building_permission"
+    ],
+    "permission_date": "2024-03-04",
+    "oc_date": null,
+    "stage": "likely_active",
+    "stage_confidence": "medium",
+    "stage_rule": "R3:in_build_window_no_oc",
+    "geo_confidence": "village",
+    "lead_score": 61.9,
+    "score_breakdown": {
+     "stage": 1.0,
+     "recency": 0.222,
+     "scale": 0.5,
+     "proximity": 1.0,
+     "promoter_rep": 0.0
+    },
+    "sources": [
+     {
+      "source": "hmda_autodcr",
+      "file_no": "062443/MED/R1/U6/HMDA/04032024",
+      "permit_number": "",
+      "project_type": "Building Permission",
+      "fetched_at": "2026-07-17T12:00:00"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.48,
+     17.63
+    ]
+   },
+   "properties": {
+    "project_id": "1b802952ae6383ea",
+    "name": "SAMRUDDHI FOOD GRAIN PROCESSORS",
+    "promoter_org": "SAMRUDDHI FOOD GRAIN PROCESSORS",
+    "is_organization": true,
+    "district": "Medchal-Malkajgiri",
+    "village": "Pudoor",
+    "category": "construction",
+    "permission_types": [
+     "building_permission"
+    ],
+    "permission_date": "2024-03-14",
+    "oc_date": null,
+    "stage": "likely_active",
+    "stage_confidence": "medium",
+    "stage_rule": "R3:in_build_window_no_oc",
+    "geo_confidence": "district",
+    "lead_score": 61.9,
+    "score_breakdown": {
+     "stage": 1.0,
+     "recency": 0.222,
+     "scale": 0.5,
+     "proximity": 1.0,
+     "promoter_rep": 0.0
+    },
+    "sources": [
+     {
+      "source": "hmda_autodcr",
+      "file_no": "062478/MED/R1/U6/HMDA/14032024",
+      "permit_number": "",
+      "project_type": "Building Permission",
+      "fetched_at": "2026-07-17T12:00:00"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.48,
+     17.63
+    ]
+   },
+   "properties": {
+    "project_id": "b97016dedc5822b1",
+    "name": "M/s. SRI VEDA INFRA",
+    "promoter_org": "M/s. SRI VEDA INFRA",
+    "is_organization": true,
+    "district": "Medchal-Malkajgiri",
+    "village": "Goudavelle",
+    "category": "construction",
+    "permission_types": [
+     "building_permission"
+    ],
+    "permission_date": "2024-05-12",
+    "oc_date": null,
+    "stage": "likely_active",
+    "stage_confidence": "medium",
+    "stage_rule": "R3:in_build_window_no_oc",
+    "geo_confidence": "district",
+    "lead_score": 66.8,
+    "score_breakdown": {
+     "stage": 1.0,
+     "recency": 0.278,
+     "scale": 0.5,
+     "proximity": 1.0,
+     "promoter_rep": 0.25
+    },
+    "sources": [
+     {
+      "source": "hmda_autodcr",
+      "file_no": "062686/MED/R1/U6/HMDA/12052024",
+      "permit_number": "",
+      "project_type": "Building Permission",
+      "fetched_at": "2026-07-19T09:00:00"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.381442,
+     17.3767677
+    ]
+   },
+   "properties": {
+    "project_id": "6334bdba436af4ea",
+    "name": "M/s. KAKATIYA INFRA PROJECTS",
+    "promoter_org": "M/s. KAKATIYA INFRA PROJECTS",
+    "is_organization": true,
+    "district": "Medchal-Malkajgiri",
+    "village": "Ibrahimbagh",
+    "category": "construction",
+    "permission_types": [
+     "occupancy_certificate",
+     "building_permission"
+    ],
+    "permission_date": "2018-07-21",
+    "oc_date": "2023-09-18",
+    "stage": "completed",
+    "stage_confidence": "high",
+    "stage_rule": "R4:oc_present",
+    "geo_confidence": "village",
+    "lead_score": 24.2,
+    "score_breakdown": {
+     "stage": 0.05,
+     "recency": 0.0,
+     "scale": 0.5,
+     "proximity": 1.0,
+     "promoter_rep": 0.0
+    },
+    "sources": [
+     {
+      "source": "hmda_autodcr",
+      "file_no": "058812/MED/R1/U6/HMDA/18092023",
+      "permit_number": "013944/GHT/R1/U6/HMDA/21072018",
+      "project_type": "Occupancy",
+      "fetched_at": "2026-07-19T09:00:00"
+     },
+     {
+      "source": "hmda_autodcr",
+      "file_no": "013944/GHT/R1/U6/HMDA/21072018",
+      "permit_number": "",
+      "project_type": "Building Permission",
+      "fetched_at": "2026-07-19T09:00:00"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.48,
+     17.63
+    ]
+   },
+   "properties": {
+    "project_id": "972affdf8c0845cd",
+    "name": "M/s. SRI VEDA INFRA",
+    "promoter_org": "M/s. SRI VEDA INFRA",
+    "is_organization": true,
+    "district": "Medchal-Malkajgiri",
+    "village": "Goudavelle",
+    "category": "construction",
+    "permission_types": [
+     "building_permission"
+    ],
+    "permission_date": "2024-06-10",
+    "oc_date": null,
+    "stage": "likely_active",
+    "stage_confidence": "medium",
+    "stage_rule": "R3:in_build_window_no_oc",
+    "geo_confidence": "district",
+    "lead_score": 67.4,
+    "score_breakdown": {
+     "stage": 1.0,
+     "recency": 0.306,
+     "scale": 0.5,
+     "proximity": 1.0,
+     "promoter_rep": 0.25
+    },
+    "sources": [
+     {
+      "source": "hmda_autodcr",
+      "file_no": "063120/MED/R1/U6/HMDA/10062024",
+      "permit_number": "",
+      "project_type": "Building Permission",
+      "fetched_at": "2026-07-19T09:00:00"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.48,
+     17.63
+    ]
+   },
+   "properties": {
+    "project_id": "ef745241155f41d5",
+    "name": "RAMESH GOUD",
+    "promoter_org": "RAMESH GOUD",
+    "is_organization": false,
+    "district": "Medchal-Malkajgiri",
+    "village": "Korremul",
+    "category": "construction",
+    "permission_types": [
+     "building_permission"
+    ],
+    "permission_date": "2026-04-10",
+    "oc_date": null,
+    "stage": "approved",
+    "stage_confidence": "high",
+    "stage_rule": "R1:recent_permission_no_oc",
+    "geo_confidence": "district",
+    "lead_score": 70.6,
+    "score_breakdown": {
+     "stage": 0.85,
+     "recency": 0.917,
+     "scale": 0.5,
+     "proximity": 1.0,
+     "promoter_rep": 0.0
+    },
+    "sources": [
+     {
+      "source": "hmda_autodcr",
+      "file_no": "071050/MED/R1/U6/HMDA/10042026",
+      "permit_number": "",
+      "project_type": "Building Permission",
+      "fetched_at": "2026-07-19T09:00:00"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.48,
+     17.63
+    ]
+   },
+   "properties": {
+    "project_id": "4cd4b467b772db23",
+    "name": "LATHA REDDY",
+    "promoter_org": "LATHA REDDY",
+    "is_organization": false,
+    "district": "Medchal-Malkajgiri",
+    "village": "Pudoor",
+    "category": "construction",
+    "permission_types": [
+     "building_permission"
+    ],
+    "permission_date": "2019-01-15",
+    "oc_date": null,
+    "stage": "stale_unknown",
+    "stage_confidence": "low",
+    "stage_rule": "R5:old_permission_no_oc",
+    "geo_confidence": "district",
+    "lead_score": 31.2,
+    "score_breakdown": {
+     "stage": 0.25,
+     "recency": 0.0,
+     "scale": 0.5,
+     "proximity": 1.0,
+     "promoter_rep": 0.0
+    },
+    "sources": [
+     {
+      "source": "hmda_autodcr",
+      "file_no": "040110/MED/R1/U6/HMDA/15012019",
+      "permit_number": "",
+      "project_type": "Building Permission",
+      "fetched_at": "2026-07-19T09:00:00"
+     }
+    ]
+   }
+  }
+ ]
+}

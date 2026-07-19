@@ -1,0 +1,8 @@
+# Pipeline dependencies (Python 3.11+)
+playwright>=1.40      # headless-browser ingestion (portals are Telerik/RadAjax; raw HTTP 500s)
+pandas>=2.0           # normalization / transforms
+rapidfuzz>=3.0        # entity resolution / dedup (fuzzy promoter+location matching)
+pgeocode>=0.4         # offline pincode -> centroid geocode anchor
+httpx>=0.27           # boundary/asset fetches, light HTTP
+lxml>=5.0             # fast HTML parsing (optional; stdlib html.parser works too)
+# After install: python -m playwright install chromium

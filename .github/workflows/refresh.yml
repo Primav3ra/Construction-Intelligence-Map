@@ -1,0 +1,60 @@
+name: weekly-refresh
+
+# Refresh cadence is WEEKLY by design: the public portals update periodically, not
+# in real time, so a weekly sweep matches reality and is stated honestly in the UI.
+on:
+  schedule:
+    - cron: "0 1 * * 1"        # Mondays 01:00 UTC (~06:30 IST)
+  workflow_dispatch:            # allow manual runs
+    inputs:
+      months:
+        description: "Lookback window in months"
+        default: "12"
+      districts:
+        description: "Comma-separated HMDA districts"
+        default: "Medchal-Malkajgiri,Ranga Reddy,Sanga Reddy"
+
+permissions:
+  contents: write               # to commit refreshed artifacts
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 50
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+
+      - name: Sweep HMDA -> raw records
+        run: |
+          python -m pipeline.scrape_hmda \
+            --districts "${{ github.event.inputs.districts || 'Medchal-Malkajgiri,Ranga Reddy,Sanga Reddy' }}" \
+            --months "${{ github.event.inputs.months || '12' }}" \
+            --out pipeline/raw_cache/hmda_records.jsonl
+
+      - name: Build artifacts (normalize -> resolve -> geocode -> lifecycle -> score -> export)
+        run: |
+          python -m pipeline.run \
+            --input pipeline/raw_cache/hmda_records.jsonl \
+            --out web/public/data --top 500
+
+      - name: Commit refreshed artifacts (if changed)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add web/public/data/*.json pipeline/geocode_cache.json
+          if git diff --cached --quiet; then
+            echo "No data changes this run."
+          else
+            git commit -m "chore(data): weekly refresh $(date -u +%Y-%m-%d)"
+            git push
+          fi

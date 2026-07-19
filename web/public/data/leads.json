@@ -1,0 +1,233 @@
+[
+ {
+  "project_id": "ef745241155f41d5",
+  "lead_score": 70.6,
+  "name": "RAMESH GOUD",
+  "promoter_org": "RAMESH GOUD",
+  "is_organization": false,
+  "district": "Medchal-Malkajgiri",
+  "village": "Korremul",
+  "stage": "approved",
+  "stage_confidence": "high",
+  "permission_date": "2026-04-10",
+  "geo_confidence": "district",
+  "score_breakdown": {
+   "stage": 0.85,
+   "recency": 0.917,
+   "scale": 0.5,
+   "proximity": 1.0,
+   "promoter_rep": 0.0
+  },
+  "file_no": "071050/MED/R1/U6/HMDA/10042026"
+ },
+ {
+  "project_id": "972affdf8c0845cd",
+  "lead_score": 67.4,
+  "name": "M/s. SRI VEDA INFRA",
+  "promoter_org": "M/s. SRI VEDA INFRA",
+  "is_organization": true,
+  "district": "Medchal-Malkajgiri",
+  "village": "Goudavelle",
+  "stage": "likely_active",
+  "stage_confidence": "medium",
+  "permission_date": "2024-06-10",
+  "geo_confidence": "district",
+  "score_breakdown": {
+   "stage": 1.0,
+   "recency": 0.306,
+   "scale": 0.5,
+   "proximity": 1.0,
+   "promoter_rep": 0.25
+  },
+  "file_no": "063120/MED/R1/U6/HMDA/10062024"
+ },
+ {
+  "project_id": "b97016dedc5822b1",
+  "lead_score": 66.8,
+  "name": "M/s. SRI VEDA INFRA",
+  "promoter_org": "M/s. SRI VEDA INFRA",
+  "is_organization": true,
+  "district": "Medchal-Malkajgiri",
+  "village": "Goudavelle",
+  "stage": "likely_active",
+  "stage_confidence": "medium",
+  "permission_date": "2024-05-12",
+  "geo_confidence": "district",
+  "score_breakdown": {
+   "stage": 1.0,
+   "recency": 0.278,
+   "scale": 0.5,
+   "proximity": 1.0,
+   "promoter_rep": 0.25
+  },
+  "file_no": "062686/MED/R1/U6/HMDA/12052024"
+ },
+ {
+  "project_id": "29fa731e1d3bcd18",
+  "lead_score": 61.9,
+  "name": "Parvathala DhanrajKrishna and Parvathala Amrutha Dhanraj",
+  "promoter_org": "Parvathala DhanrajKrishna and Parvathala Amrutha Dhanraj",
+  "is_organization": false,
+  "district": "Medchal-Malkajgiri",
+  "village": "Shamirpet-ORRGC",
+  "stage": "likely_active",
+  "stage_confidence": "medium",
+  "permission_date": "2024-03-04",
+  "geo_confidence": "village",
+  "score_breakdown": {
+   "stage": 1.0,
+   "recency": 0.222,
+   "scale": 0.5,
+   "proximity": 1.0,
+   "promoter_rep": 0.0
+  },
+  "file_no": "062443/MED/R1/U6/HMDA/04032024"
+ },
+ {
+  "project_id": "1b802952ae6383ea",
+  "lead_score": 61.9,
+  "name": "SAMRUDDHI FOOD GRAIN PROCESSORS",
+  "promoter_org": "SAMRUDDHI FOOD GRAIN PROCESSORS",
+  "is_organization": true,
+  "district": "Medchal-Malkajgiri",
+  "village": "Pudoor",
+  "stage": "likely_active",
+  "stage_confidence": "medium",
+  "permission_date": "2024-03-14",
+  "geo_confidence": "district",
+  "score_breakdown": {
+   "stage": 1.0,
+   "recency": 0.222,
+   "scale": 0.5,
+   "proximity": 1.0,
+   "promoter_rep": 0.0
+  },
+  "file_no": "062478/MED/R1/U6/HMDA/14032024"
+ },
+ {
+  "project_id": "ba831841914f09ed",
+  "lead_score": 61.4,
+  "name": "DAGPA SUBHAKRITI INFRACON (OPC) PRIVATE LIMITED",
+  "promoter_org": "DAGPA SUBHAKRITI INFRACON (OPC) PRIVATE LIMITED",
+  "is_organization": true,
+  "district": "Medchal-Malkajgiri",
+  "village": "Goudavelle",
+  "stage": "likely_active",
+  "stage_confidence": "medium",
+  "permission_date": "2024-02-06",
+  "geo_confidence": "district",
+  "score_breakdown": {
+   "stage": 1.0,
+   "recency": 0.194,
+   "scale": 0.5,
+   "proximity": 1.0,
+   "promoter_rep": 0.0
+  },
+  "file_no": "062367/MED/R1/U6/HMDA/06022024"
+ },
+ {
+  "project_id": "9525b8cf78f831e5",
+  "lead_score": 60.8,
+  "name": "YADAVALLI VIJAY KUMAR",
+  "promoter_org": "YADAVALLI VIJAY KUMAR",
+  "is_organization": false,
+  "district": "Medchal-Malkajgiri",
+  "village": "Korremul",
+  "stage": "likely_active",
+  "stage_confidence": "medium",
+  "permission_date": "2024-01-02",
+  "geo_confidence": "district",
+  "score_breakdown": {
+   "stage": 1.0,
+   "recency": 0.167,
+   "scale": 0.5,
+   "proximity": 1.0,
+   "promoter_rep": 0.0
+  },
+  "file_no": "062254/GHT/R1/U6/HMDA/02012024"
+ },
+ {
+  "project_id": "1c28ab367749013f",
+  "lead_score": 60.8,
+  "name": "BANOTHU LAXMI",
+  "promoter_org": "BANOTHU LAXMI",
+  "is_organization": false,
+  "district": "Medchal-Malkajgiri",
+  "village": "Korremul",
+  "stage": "likely_active",
+  "stage_confidence": "medium",
+  "permission_date": "2024-01-05",
+  "geo_confidence": "district",
+  "score_breakdown": {
+   "stage": 1.0,
+   "recency": 0.167,
+   "scale": 0.5,
+   "proximity": 1.0,
+   "promoter_rep": 0.0
+  },
+  "file_no": "062266/GHT/R1/U6/HMDA/05012024"
+ },
+ {
+  "project_id": "4aa7228c9463ef12",
+  "lead_score": 60.8,
+  "name": "GURRAM MADHU AND TWO OTHERS",
+  "promoter_org": "GURRAM MADHU AND TWO OTHERS",
+  "is_organization": false,
+  "district": "Medchal-Malkajgiri",
+  "village": "Korremul",
+  "stage": "likely_active",
+  "stage_confidence": "medium",
+  "permission_date": "2024-01-12",
+  "geo_confidence": "district",
+  "score_breakdown": {
+   "stage": 1.0,
+   "recency": 0.167,
+   "scale": 0.5,
+   "proximity": 1.0,
+   "promoter_rep": 0.0
+  },
+  "file_no": "062291/GHT/R1/U6/HMDA/12012024"
+ },
+ {
+  "project_id": "4cd4b467b772db23",
+  "lead_score": 31.2,
+  "name": "LATHA REDDY",
+  "promoter_org": "LATHA REDDY",
+  "is_organization": false,
+  "district": "Medchal-Malkajgiri",
+  "village": "Pudoor",
+  "stage": "stale_unknown",
+  "stage_confidence": "low",
+  "permission_date": "2019-01-15",
+  "geo_confidence": "district",
+  "score_breakdown": {
+   "stage": 0.25,
+   "recency": 0.0,
+   "scale": 0.5,
+   "proximity": 1.0,
+   "promoter_rep": 0.0
+  },
+  "file_no": "040110/MED/R1/U6/HMDA/15012019"
+ },
+ {
+  "project_id": "6334bdba436af4ea",
+  "lead_score": 24.2,
+  "name": "M/s. KAKATIYA INFRA PROJECTS",
+  "promoter_org": "M/s. KAKATIYA INFRA PROJECTS",
+  "is_organization": true,
+  "district": "Medchal-Malkajgiri",
+  "village": "Ibrahimbagh",
+  "stage": "completed",
+  "stage_confidence": "high",
+  "permission_date": "2018-07-21",
+  "geo_confidence": "village",
+  "score_breakdown": {
+   "stage": 0.05,
+   "recency": 0.0,
+   "scale": 0.5,
+   "proximity": 1.0,
+   "promoter_rep": 0.0
+  },
+  "file_no": "058812/MED/R1/U6/HMDA/18092023"
+ }
+]

@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# Playwright
+ms-playwright/
+
+# Node / web
+node_modules/
+web/dist/
+.vite/
+*.tsbuildinfo
+web/vite.config.js
+web/vite.config.d.ts
+
+# Pipeline working store & raw scrape cache (not committed)
+pipeline/**/store.sqlite
+pipeline/**/.cache/
+pipeline/raw_cache/
+# (pipeline/geocode_cache.json IS committed — small, deterministic build cache)
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Machine-local agent/editor config (session-local permissions, not product)
+.claude/
+
+# Published artifacts live in web/public/data/ and ARE committed (single source of
+# truth). Raw scrape cache (pipeline/raw_cache/) is ignored above.
