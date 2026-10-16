@@ -100,6 +100,8 @@ code, .mono { font-family: ui-monospace, "Cascadia Code", Consolas, monospace; }
 /* ---- map ---- */
 .map-wrap { position: relative; overflow: hidden; }
 .map { height: 460px; width: 100%; }
+/* OSM has no dark basemap; invert the tiles only, so markers keep their colors */
+:root[data-theme="dark"] .leaflet-tile-pane { filter: invert(1) hue-rotate(180deg) brightness(0.9) contrast(0.9) saturate(0.6); }
 .legend {
   position: absolute; right: 10px; bottom: 10px; z-index: 500;
   background: var(--surface); border: 1px solid var(--border); border-radius: 10px;

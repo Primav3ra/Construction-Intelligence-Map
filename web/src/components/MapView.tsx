@@ -28,9 +28,9 @@ interface Props {
 }
 
 export default function MapView({ features, selectedId, onSelect, dark }: Props) {
-  const tiles = dark
-    ? "https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png"
-    : "https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png";
+  // OpenStreetMap tiles need no API key (CARTO basemaps now do). Dark mode is
+  // a CSS filter on the tile pane; see styles.css.
+  const tiles = "https://tile.openstreetmap.org/{z}/{x}/{y}.png";
   const selected = features.find((f) => f.properties.project_id === selectedId) ?? null;
 
   return (
@@ -38,8 +38,8 @@ export default function MapView({ features, selectedId, onSelect, dark }: Props)
       <MapContainer center={MAP_CENTER} zoom={MAP_ZOOM} className="map" preferCanvas>
         <TileLayer
           url={tiles}
-          attribution='&copy; OpenStreetMap &copy; CARTO'
-          subdomains="abcd"
+          attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+          maxZoom={19}
         />
         <FlyToSelected feature={selected} />
         <MarkerClusterGroup chunkedLoading maxClusterRadius={45}>
