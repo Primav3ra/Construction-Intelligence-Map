@@ -1,21 +1,19 @@
 {
- "generated_at": "2026-07-19T20:20:04",
+ "generated_at": "2026-08-31T06:54:48",
  "refresh_cadence": "weekly",
- "record_count": 11,
- "mapped_count": 11,
+ "record_count": 352,
+ "mapped_count": 352,
  "geo_coverage_pct": 100.0,
  "by_stage": {
-  "likely_active": 8,
-  "completed": 1,
-  "approved": 1,
-  "stale_unknown": 1
+  "stale_unknown": 351,
+  "completed": 1
  },
  "by_district": {
-  "Medchal-Malkajgiri": 11
+  "Medchal-Malkajgiri": 352
  },
  "by_geo_confidence": {
-  "district": 9,
-  "village": 2
+  "district": 189,
+  "village": 163
  },
  "sources": [
   "hmda_autodcr"

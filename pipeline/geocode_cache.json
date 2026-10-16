@@ -1,5 +1,320 @@
 {
+ "abdullapur|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.3209561,
+  "lng": 78.6929681
+ },
+ "adibatla|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "ahmadguda|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "almasguda|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.3083337,
+  "lng": 78.5330493
+ },
+ "alwal|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.5022292,
+  "lng": 78.5088584
+ },
+ "amangal hayath|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "amberpeet|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "ameenapur|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "annojiguda|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.4332336,
+  "lng": 78.6571795
+ },
+ "attapur|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "aziznagar|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "bachpalle|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "bachupally-orrgc|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "badangpet|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.3383467,
+  "lng": 78.5222127
+ },
+ "bahadurpalle|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "bakaram|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "balapur|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "bandlaguda (jagir)|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.3714879,
+  "lng": 78.5727265
+ },
+ "bandlaguda|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "banjara hills|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.4177464,
+  "lng": 78.4399014
+ },
+ "bible house|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "bodduppal|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "boduppal|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.4200755,
+  "lng": 78.5827841
+ },
+ "bommalaramaram|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.5635402,
+  "lng": 78.7410092
+ },
+ "bownpally|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "budvel-orrgc|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.33298,
+  "lng": 78.406191
+ },
+ "budvel|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.33298,
+  "lng": 78.406191
+ },
+ "changicherla|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "cheeriyal|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.5168402,
+  "lng": 78.6270368
+ },
+ "chetanpalle|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "chikul|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "chintalcheru|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.6500599,
+  "lng": 78.2369065
+ },
+ "daiira|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "dammaiguda|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.5038613,
+  "lng": 78.5913259
+ },
+ "deshmukhi|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "devar yamjal|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "dommara pochampalle|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "donthanpalle|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "dulapalle|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "dundigal-orrgc|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.6075319,
+  "lng": 78.4141732
+ },
+ "edulabad|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.4189871,
+  "lng": 78.711049
+ },
+ "fathullaguda|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "gachibowli|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.4436222,
+  "lng": 78.3519638
+ },
+ "gaganpahad|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.3549315,
+  "lng": 78.4785127
+ },
+ "gagilapur-orrgc|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "gagilapur|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "gajularamaram|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.5271759,
+  "lng": 78.4200077
+ },
+ "gandamguda|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "gandipet|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "ghatkesar|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "gopanpalle|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
  "goudavelle|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "gowdavelly-orrgc|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "gundla machanur|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.6484379,
+  "lng": 78.1819943
+ },
+ "gundla pochampalle|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "gungal|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "guramguda|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.2943319,
+  "lng": 78.5646583
+ },
+ "guttalabegumpet|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "hathiguda|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.3891212,
+  "lng": 78.5023785
+ },
+ "hayathnagar bagat|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "himayat nagar|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.4039678,
+  "lng": 78.483456
+ },
+ "himayathsagar|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "hyderguda|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.4012791,
+  "lng": 78.4804894
+ },
+ "hydersha kot|medchal-malkajgiri": {
   "conf": "district",
   "lat": 17.63,
   "lng": 78.48
@@ -9,19 +324,594 @@
   "lat": 17.3767677,
   "lng": 78.381442
  },
+ "ibrahimpatnam (khalsa)|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "inamguda|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "jeedimetla|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.519687,
+  "lng": 78.4468876
+ },
+ "jillalguda|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "jublakpally|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "kallakal|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.7134323,
+  "lng": 78.4814142
+ },
+ "kalvakunta|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.6128928,
+  "lng": 78.0927109
+ },
+ "kancha gachibowli|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "kandlakoya-orrgc|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.5998332,
+  "lng": 78.4902208
+ },
+ "kapra|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.4846356,
+  "lng": 78.5610095
+ },
+ "karmanghat|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.3410061,
+  "lng": 78.5329747
+ },
+ "katedan|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "kawadipalle|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "khajaguda-orrgc|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.4172202,
+  "lng": 78.3656108
+ },
+ "khajaguda|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "kismatpur-orrgc|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "kismatpur|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "koheda|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "kokkonda|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "kompalle|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "kondaapur|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "kondamadugu|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.4907809,
+  "lng": 78.7389941
+ },
+ "kongara kalan|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "kongarakalan-orrgc|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
  "korremul|medchal-malkajgiri": {
   "conf": "district",
   "lat": 17.63,
   "lng": 78.48
+ },
+ "kothur(kothur)|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "kukatpally|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.4930841,
+  "lng": 78.4054408
+ },
+ "kuntloor|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "lalaguda|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.4408124,
+  "lng": 78.5247765
+ },
+ "lingojigudaa|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "madeenaguda|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "madhaapur|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "makthabibisahebguda|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "malkajgiri|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.4511764,
+  "lng": 78.5368997
+ },
+ "mallapur|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "mamidipalle|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.5908698,
+  "lng": 78.1359876
+ },
+ "manchirevula|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.3769679,
+  "lng": 78.3537878
+ },
+ "mangalpally-orrgc|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "manikonda (jagir)|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.4037073,
+  "lng": 78.3766148
+ },
+ "manmole|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "manneguda-orrgc|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "manneguda|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "mansoorabad|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.3607848,
+  "lng": 78.5683066
+ },
+ "medchal|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.6339929,
+  "lng": 78.4843146
+ },
+ "medipally|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.4206569,
+  "lng": 78.5920428
+ },
+ "meeerpet|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "meerpet|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.4546432,
+  "lng": 78.5715499
+ },
+ "mehdipatnam|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.3942627,
+  "lng": 78.4342514
+ },
+ "miapur|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "mohabatnagar|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "mooduchintalapalle|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "moosapeet|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "moosarmbagh|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "munirabad|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.6042931,
+  "lng": 78.5431042
+ },
+ "muppi reddy palle|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "muraharipalle|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "musheerabad|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.4191423,
+  "lng": 78.4985732
+ },
+ "muthangi|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.541785,
+  "lng": 78.228008
+ },
+ "muthawalliguda|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "nachaaram|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "nadargul|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.3055482,
+  "lng": 78.5614916
+ },
+ "nagaram|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.4891828,
+  "lng": 78.6017275
+ },
+ "naginenipalle|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "nagole|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.3775306,
+  "lng": 78.5601231
+ },
+ "nallakunta|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.3975005,
+  "lng": 78.50557
+ },
+ "nampally|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.3923995,
+  "lng": 78.4701477
+ },
+ "nanakramguda|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.4217796,
+  "lng": 78.3379784
+ },
+ "narepalle|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "narsingi-orrgc|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.3915187,
+  "lng": 78.3598924
+ },
+ "narsingi|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "neknampur|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "nizampet|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.515397,
+  "lng": 78.3817156
+ },
+ "osman nagar|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "pagidi palle|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "palapnoor|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.6583031,
+  "lng": 78.1697484
+ },
+ "pasumamula|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "patancheruvu|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.5457885,
+  "lng": 78.2222266
+ },
+ "patelguda|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.5467561,
+  "lng": 78.2892225
+ },
+ "pedda amberpet (kalan) - orrgc|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.3178349,
+  "lng": 78.6579327
+ },
+ "pedda amberpet (kalan)|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.3178349,
+  "lng": 78.6579327
+ },
+ "peerzadiguda|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.3945004,
+  "lng": 78.5925253
+ },
+ "pocharam(patancheruvu)|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.436614,
+  "lng": 78.6422235
+ },
+ "pocharam|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "pothreddipalle|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.5910164,
+  "lng": 78.084667
  },
  "pudoor|medchal-malkajgiri": {
   "conf": "district",
   "lat": 17.63,
   "lng": 78.48
  },
+ "puppalguda|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.3959138,
+  "lng": 78.3756838
+ },
+ "raidurg novkhalsa|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "raikunta -orrgc|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "ramanthapur khalsa|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "rampalle|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "rampally-orrgc|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.4697905,
+  "lng": 78.641907
+ },
+ "roshan-ud-dowla|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.3183134,
+  "lng": 78.4953608
+ },
+ "sahebnagar krud|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "saidabad|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "salarjungbhadur|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "saroornagar|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.3723374,
+  "lng": 78.5144147
+ },
+ "serilingamapally|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "shaikpet|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.4057955,
+  "lng": 78.4006536
+ },
  "shamirpet-orrgc|medchal-malkajgiri": {
   "conf": "village",
   "lat": 17.5942672,
   "lng": 78.5743878
+ },
+ "shamirpet|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.5942672,
+  "lng": 78.5743878
+ },
+ "shamshabad|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.2611444,
+  "lng": 78.3931943
+ },
+ "singapur|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "tarnaka|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "tatti annaram|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.3667181,
+  "lng": 78.5981132
+ },
+ "thummaloor|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "tunki makta|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.767436,
+  "lng": 78.5531902
+ },
+ "turkapalle|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "turkayamjal|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "turror (faroor)|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "uppal bhagat|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "uppal kalan|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "upparpally|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 18.0155456,
+  "lng": 78.5707249
+ },
+ "vattinagulapalle|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "yapral|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.5030543,
+  "lng": 78.5407976
+ },
+ "yeliminedu|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "yellagiri|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
+ },
+ "yellampet|medchal-malkajgiri": {
+  "conf": "village",
+  "lat": 17.6828696,
+  "lng": 78.4895896
+ },
+ "yellareddyguda|medchal-malkajgiri": {
+  "conf": "district",
+  "lat": 17.63,
+  "lng": 78.48
  }
 }
